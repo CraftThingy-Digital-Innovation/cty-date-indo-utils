@@ -1,0 +1,35 @@
+{
+  "name": "@craftthingy-digital-innovation/cty-date-indo-utils-web",
+  "version": "1.0.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CraftThingy-Digital-Innovation/cty-date-indo-utils-web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CraftThingy-Digital-Innovation/cty-date-indo-utils-web/issues"
+  },
+  "homepage": "https://github.com/CraftThingy-Digital-Innovation/cty-date-indo-utils-web#readme",
+  "main": "./dist/cty-date-indo-utils.umd.js",
+  "module": "./dist/cty-date-indo-utils.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/cty-date-indo-utils.es.js",
+      "require": "./dist/cty-date-indo-utils.umd.js"
+    }
+  },
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "build": "vite build"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}
