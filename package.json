@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "@craftthingy-digital-innovation/cty-date-indo-utils",
   "description": "Isomorphic Indonesian date formatting, conversions, validation, and auto-slash input masking.",
   "version": "1.0.1",
