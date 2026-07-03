@@ -1,15 +1,16 @@
 {
-  "name": "@craftthingy-digital-innovation/cty-date-indo-utils-web",
+  "name": "@craftthingy-digital-innovation/cty-date-indo-utils",
+  "description": "Isomorphic Indonesian date formatting, conversions, validation, and auto-slash input masking.",
   "version": "1.0.0",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CraftThingy-Digital-Innovation/cty-date-indo-utils-web.git"
+    "url": "git+https://github.com/CraftThingy-Digital-Innovation/cty-date-indo-utils.git"
   },
   "bugs": {
-    "url": "https://github.com/CraftThingy-Digital-Innovation/cty-date-indo-utils-web/issues"
+    "url": "https://github.com/CraftThingy-Digital-Innovation/cty-date-indo-utils/issues"
   },
-  "homepage": "https://github.com/CraftThingy-Digital-Innovation/cty-date-indo-utils-web#readme",
+  "homepage": "https://github.com/CraftThingy-Digital-Innovation/cty-date-indo-utils#readme",
   "main": "./dist/cty-date-indo-utils.umd.js",
   "module": "./dist/cty-date-indo-utils.es.js",
   "exports": {
